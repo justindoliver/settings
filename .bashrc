@@ -97,7 +97,7 @@ alias gs='git status'
 alias gb='git branch'
 alias gc='git checkout'
 alias gp='git pull'
-
+alias gdt='git difftool'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
